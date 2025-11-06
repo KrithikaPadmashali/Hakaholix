@@ -5,3 +5,4 @@ https://analyticsindiamag.com/ai-trends/10-open-source-datasets-one-must-know-to
 https://grouplens.org/datasets/movielens/25m/
 https://www.kaggle.com/datasets/datafiniti/hotel-reviews
 https://www.kaggle.com/datasets/PromptCloudHQ/hotels-on-goibibo
+https://huggingface.co/datasets/manikanta10/trip-planner-cities-dataset/viewer
